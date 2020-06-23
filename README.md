@@ -3,7 +3,7 @@ Geo maps Android Application Build Using Kotlin
 
 # Steps To Access The Project
 
-1) Download and Extract the file (TextRecognizer.zip)
+1) Download and Extract the file (Maps.zip)
 
 2) Start Android Studio and open mainActivity.kt file (Kotlin File) also, open the XML File
 
@@ -14,7 +14,7 @@ Geo maps Android Application Build Using Kotlin
 5) Go to Following Link To Install The Application. 
 
 # Link to Download and Install Application:
-https://drive.google.com/file/d/1aXA24rTNn9lVloQJaJmfhjvmYpqfh7bC/view?usp=sharing
+https://drive.google.com/file/d/1vWIAC7gHvWhZ2oako16ubXEcZ6mPXoGu/view?usp=sharing
  
 # Images 
 1) Application View
