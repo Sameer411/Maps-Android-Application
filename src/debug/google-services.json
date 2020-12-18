@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522338699259",
+    "firebase_url": "https://maps-aaabc.firebaseio.com",
+    "project_id": "maps-aaabc",
+    "storage_bucket": "maps-aaabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522338699259:android:776d36ffe713aa957ced5e",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522338699259-4epukq3lfltk9pouglqjk9bnanave0q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maps",
+            "certificate_hash": "cae805d4ca1f74031bb1c1133182867b118d01f0"
+          }
+        },
+        {
+          "client_id": "522338699259-gqg2th97hanbh30uai52936ub8ckig5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdBrCNI21BJjVp2LVRa8xuVI8atl-D8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522338699259-gqg2th97hanbh30uai52936ub8ckig5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
