@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">522338699259-gqg2th97hanbh30uai52936ub8ckig5b.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://maps-aaabc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">522338699259</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZdBrCNI21BJjVp2LVRa8xuVI8atl-D8U</string>
+    <string name="google_app_id" translatable="false">1:522338699259:android:776d36ffe713aa957ced5e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZdBrCNI21BJjVp2LVRa8xuVI8atl-D8U</string>
+    <string name="google_storage_bucket" translatable="false">maps-aaabc.appspot.com</string>
+    <string name="project_id" translatable="false">maps-aaabc</string>
+</resources>
